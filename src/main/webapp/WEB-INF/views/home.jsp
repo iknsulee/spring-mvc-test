@@ -10,5 +10,11 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+<%
+	System.out.println("Debug syntax");
+%>
+
+TEST 2
 </body>
 </html>

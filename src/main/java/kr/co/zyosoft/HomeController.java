@@ -29,6 +29,8 @@ public class HomeController {
 
 		System.out.println("TEST");
 
+		String s_str = "LKS";
+
 		logger.info("Welcome home! The client locale is {}.", locale);
 		
 		Date date = new Date();
