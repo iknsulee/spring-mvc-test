@@ -29,12 +29,6 @@ public class HomeController {
 
 		System.out.println("TEST");
 
-
-
-		String aaa = "keunsulee";
-
-		String s_str = "심진욱";
-
 		logger.info("Welcome home! The client locale is {}.", locale);
 		
 		Date date = new Date();
